@@ -38,7 +38,7 @@ resource "aws_subnet" "pvt-subnet" {
   availability_zone = "ap-south-1b"
 
   tags = {
-    Name = "private-subnett"
+    Name = "private-subnettsss"
   }
 }
 # Routing Table For Public
